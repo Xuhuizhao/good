@@ -1,3 +1,6 @@
+<class_name.prototype.method_name = function(first_argument) {
+	// body...
+};
 window.onload = function() {
 	function $(id) {
 		return document.getElementById(id);
